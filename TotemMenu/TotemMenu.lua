@@ -108,6 +108,41 @@ if ( GetLocale() == "deDE" ) then
 end
 
 
+if ( GetLocale() == "ruRU" ) then
+	
+	TotemNames["FIRE_SEARING_TOTEM"] = "Опаляющий тотем"; 
+	TotemNames["FIRE_MAGMA_TOTEM"] = "Тотем магмы"; 
+	TotemNames["FIRE_NOVA_TOTEM"] = "Тотем кольца огня"; 
+	TotemNames["FIRE_FLAMETONGUE_TOTEM"] = "Тотем языка пламени"; 
+	TotemNames["FIRE_FROST_RESISTANCE_TOTEM"] = "Тотем защиты от магии льда"; 
+	
+	TotemNames["EARTH_STONESKIN_TOTEM"] = "Тотем каменной кожи" ;
+	TotemNames["EARTH_STRENGTH_TOTEM"] = "Тотем силы земли" ;
+	TotemNames["EARTH_BIND_TOTEM"] = "Тотем оков земли" ;
+	TotemNames["EARTH_STONECLAW_TOTEM"] = "Тотем каменного когтя" ;
+	TotemNames["EARTH_TREMOR_TOTEM"] = "Тотем трепета" ;
+	TotemNames["AIR_TRANQUIL_AIR_TOTEM"] = "Тотем безветрия" ;
+	
+	TotemNames["AIR_GRACE_TOTEM"] = "Тотем легкости воздуха" ;
+	TotemNames["AIR_GROUNDING_TOTEM"] = "Тотем заземления" ;
+	TotemNames["AIR_WINDWALL_TOTEM"] = "Тотем стены ветра" ;
+	TotemNames["AIR_SENTRY_TOTEM"] = "Сторожевой тотем" ;
+	TotemNames["AIR_WINDFURY_TOTEM"] = "Тотем неистовства ветра" ;
+	TotemNames["AIR_NATURE_RESISTANCE_TOTEM"] = "Тотем защиты от сил природы" ;
+	
+	TotemNames["WATER_HEALING_TOTEM"] = "Тотем исцеляющего потока" ;
+	TotemNames["WATER_MANA_TOTEM"] = "Тотем источника маны" ;
+	TotemNames["WATER_FIRE_RESISTANCE_TOTEM"] = "Тотем защиты от огня" ;
+	TotemNames["WATER_DISEASE_TOTEM"] = "Тотем очищения от болезней" ;
+	TotemNames["WATER_POISON_TOTEM"] = "Тотем противоядия" ;
+	TotemNames["WATER_MANA_TIDE_TOTEM"] = "Тотем прилива маны" ;
+
+	
+	
+
+end
+
+
 --[[ Variables saved to SavedVariables.lua ]]
 
 TotemMenuOpt = {

@@ -2,5 +2,6 @@
 ## Title: Totem Menu
 ## Author: Squee
 ## Notes: AddOn to display totems better
+## Notes-ruRU: Улучшенное отображение тотемов
 ## SavedVariables: TotemMenuOpt
 TotemMenu.xml
